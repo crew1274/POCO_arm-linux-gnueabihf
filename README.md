@@ -1,6 +1,7 @@
 # POCO_arm-linux-gnueabihf
 Cross compile C++ Network Library __POCO__
-
+Requirement:  
+openssl-1.1.0  
 ## Download File
 ```bash
 wget https://pocoproject.org/releases/poco-1.9.0/poco-1.9.0.tar.gz
