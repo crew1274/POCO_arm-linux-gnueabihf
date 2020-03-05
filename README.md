@@ -18,3 +18,7 @@ TOOL = arm-linux-gnueabihf
 make
 sudo make install
 ```
+
+```bash
+./configure --config=ARM-Linux --prefix=/usr/local/poco-arm-10 --no-samples --no-tests --everything --static --shared --odbc-lib=/usr/local/unixodbc-arm/lib --odbc-include=/usr/local/unixodbc-arm/include
+```
